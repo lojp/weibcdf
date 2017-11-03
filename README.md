@@ -1,11 +1,7 @@
 # weibcdf
 Just use cumulative density data by time to fit the Weibull CDF distribution 
-
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 21 09:37:17 2017
 @author: lojp
-"""
+
 
 from scipy import stats # Import the scipy.stats module
 from scipy.optimize import curve_fit
