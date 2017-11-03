@@ -13,6 +13,7 @@ https://en.wikipedia.org/wiki/Weibull_distribution
 
 As a biginner of Weibull, and my raw data is cumulative probability density data, very special for existing model, comparing to weibull_min, exponweib or ComputSimu's blog. So i write this code to fit the weibull distribution.
 
+
 cumulative density= 
        [0.0041999999999999997, 0.0099869999999999994, 0.015879000000000001, 
         0.021288000000000001, 0.027421000000000001, 0.035160999999999998, 
